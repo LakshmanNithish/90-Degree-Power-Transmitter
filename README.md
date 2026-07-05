@@ -56,7 +56,12 @@ The complete assembly was modeled, constrained, and animated in SolidWorks to ve
 ---
 ## Demo Video
 
-🎥 [Watch the Demo](90%20Degree%20Power%20Transmission.mp4)
+🎥 [Watch the Demo]
+
+
+https://github.com/user-attachments/assets/302ca64b-d0fe-44f0-adde-090ba6f57a0b
+
+
 
 ---
 
