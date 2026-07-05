@@ -59,12 +59,12 @@ The complete assembly was modeled, constrained, and animated in SolidWorks to ve
 
 The mechanism transfers rotational motion from the input shaft to the output shaft positioned at **90 degrees**.
 
-1. The input shaft rotates.
-2. The connecting mechanism transfers the motion.
-3. The output shaft rotates at a right angle to the input.
+1. The input shaft receives rotational motion from a motor or manual drive.
+2. The motion is transmitted through a pivoted linkage assembly.
+3. A specially designed 90° connecting element redirects the rotational motion by 90°.
+4. The output shaft rotates about an axis perpendicular to the input shaft, completing the transmission process.
 
-This demonstrates the basic concept of right-angle mechanical power transmission.
-
+This design demonstrates how mechanical linkages can be used to achieve directional change in power transmission without relying solely on bevel gears or worm gear arrangements.
 ---
 
 ## Applications
@@ -89,8 +89,7 @@ This demonstrates the basic concept of right-angle mechanical power transmission
 
 ## Repository
 
-git clone https://github.com/LakshmanNithish/90-degree-power-transmission.git
-
+https://github.com/LakshmanNithish/90-Degree-Power-Transmitter
 
 ## Done By
 
