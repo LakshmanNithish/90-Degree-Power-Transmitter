@@ -65,7 +65,7 @@ The mechanism transfers rotational motion from the input shaft to the output sha
 4. The output shaft rotates about an axis perpendicular to the input shaft, completing the transmission process.
 
 This design demonstrates how mechanical linkages can be used to achieve directional change in power transmission without relying solely on bevel gears or worm gear arrangements.
----
+
 
 ## Applications
 
