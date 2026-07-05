@@ -2,6 +2,12 @@
 
 A SolidWorks CAD project demonstrating a simple mechanism for transmitting rotary motion through a **90-degree angle** using interconnected links and rotating shafts.
 
+A 90° Power Transmission Mechanism is a mechanical system designed to transfer rotary motion and torque between two shafts whose axes are perpendicular (90°) to each other. Such mechanisms are commonly used where direct alignment of shafts is not possible due to space constraints or design requirements.
+
+Unlike conventional gear-based right-angle drives, this project demonstrates an alternative mechanical approach using linkages and pivot joints to transmit rotational motion. The input shaft rotates about one axis, and the motion is transferred through an intermediate right-angle coupling, causing the output shaft to rotate about a perpendicular axis.
+
+The mechanism operates on the principle of rotational motion transfer through constrained mechanical joints. As the input shaft rotates, the connected linkage guides the motion through the 90° connector, ensuring continuous transmission of torque to the output shaft. Proper alignment of the pivot points is essential for smooth operation and minimal power loss.
+
 ## Project Overview
 
 This project was created as part of my learning in CAD design and mechanical systems using SolidWorks. The objective was to design and assemble a compact mechanism capable of transmitting rotational motion between two shafts positioned at **90°** to each other.
@@ -44,12 +50,8 @@ The complete assembly was modeled, constrained, and animated in SolidWorks to ve
 
 ## Preview
 
-> Add screenshots of the assembly here.
-
-Example:
 <img width="1918" height="1078" alt="Screenshot 2026-07-05 115220" src="https://github.com/user-attachments/assets/56ebae9a-7e2d-4287-ba16-ff945f431e49" />
 
-![Assembly](Images/assembly.png)
 
 ---
 
@@ -87,21 +89,15 @@ This demonstrates the basic concept of right-angle mechanical power transmission
 
 ## Repository
 
-Clone the repository using:
+git clone https://github.com/LakshmanNithish/90-degree-power-transmission.git
 
-```bash
-git clone https://github.com/your-username/90-degree-power-transmission.git
-```
 
----
+## Done By
 
-## Author
-
-**Your Name**
-
+Lakshman Nithish
 Mechanical Engineering Student
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/LakshmanNithish
 
 ---
 
