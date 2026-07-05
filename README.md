@@ -47,6 +47,7 @@ The complete assembly was modeled, constrained, and animated in SolidWorks to ve
 > Add screenshots of the assembly here.
 
 Example:
+<img width="1918" height="1078" alt="Screenshot 2026-07-05 115220" src="https://github.com/user-attachments/assets/56ebae9a-7e2d-4287-ba16-ff945f431e49" />
 
 ![Assembly](Images/assembly.png)
 
